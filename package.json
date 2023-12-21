@@ -1,0 +1,22 @@
+{
+  "name": "playwright-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuvaGeorge03/playwright-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuvaGeorge03/playwright-fun/issues"
+  },
+  "homepage": "https://github.com/JoshuvaGeorge03/playwright-fun#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5"
+  }
+}
